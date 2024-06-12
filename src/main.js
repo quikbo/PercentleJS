@@ -1,6 +1,13 @@
 import "../style.css";
 
-const app = document.getElementById("app");
-app.innerHTML = `<div class="flex items-center justify-center h-screen">
-  <div>Hello World!</div>
-</div>`;
+document.getElementById('countriesButton').onclick = function() {
+    window.location.href = './src/pages/countries.html';
+};
+
+document.getElementById('nflButton').onclick = function() {
+    window.location.href = './src/pages/NFL.html';
+};
+
+document.getElementById('nbaButton').onclick = function() {
+    window.location.href = './src/pages/NBA.html';
+};

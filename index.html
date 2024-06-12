@@ -2,12 +2,39 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link rel="icon" type="image/svg+xml" href="/logo.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
+    <title>Percentle</title>
   </head>
-  <body>
-    <div id="app"></div>
+  <body class="bg-gray-100">
+    <div id="title-image">
+      <header class="max-w-md py-4 mx-auto mt-5">
+        <img src="/title.png" alt="Percentle %"></img>
+      </header>
+    </div>
+
+    <section id="categories" class="flex flex-1 items-center justify-center mt-32">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 p-6 max-w-4xl w-full">
+        <div id="country_category_box" class="flex items-center justify-center p-4 bg-white rounded-lg shadow-lg">
+          <button id="countriesButton" class="px-4 py-2 text-lg text-white bg-slate-700 rounded hover:bg-blue-600 
+            focus:outline-none focus:ring-2 focus:ring-green-500">
+              Countries
+          </button>
+        </div>
+        <div id="NFL_category_box" class="flex items-center justify-center p-4 bg-white rounded-lg shadow-lg">
+            <button id="nflButton" class="px-4 py-2 text-lg text-white bg-slate-700  rounded hover:bg-blue-600 
+              focus:outline-none focus:ring-2 focus:ring-green-500">
+                NFL teams
+            </button>
+        </div>
+        <div id="NBA_category_box" class="flex items-center justify-center p-4 bg-white rounded-lg shadow-lg">
+            <button id="nbaButton" class="px-4 py-2 text-lg text-white bg-slate-700  rounded hover:bg-blue-600 
+              focus:outline-none focus:ring-2 focus:ring-green-500">
+                NBA teams
+            </button>
+        </div>
+      </div>
+    </section>
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>
