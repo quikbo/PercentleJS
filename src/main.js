@@ -85,14 +85,14 @@ document.addEventListener("DOMContentLoaded", async () => {
 const countriesButton = document.getElementById('countriesButton')
 if (countriesButton) {
     countriesButton.onclick = () => {
-    window.location.href = "/src/games/countries.html";
+    window.location.href = "src/games/countries.html";
     };
 }
 
 const nflButton = document.getElementById('nflButton')
 if (nflButton) {
     nflButton.onclick = () => {
-    window.location.href = '/src/games/NFL.html';
+    window.location.href = 'src/games/NFL.html';
     };
 }
 
@@ -106,6 +106,6 @@ if (nbaButton) {
 const logoButton = document.getElementById('logo-button')
 if (logoButton) {
     logoButton.onclick = () => {
-    window.location.href = '/index.html';
+    window.location.href = 'PercentleJS/index.html';
     };
 }
