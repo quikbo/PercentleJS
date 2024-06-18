@@ -1,0 +1,167 @@
+{
+  "A":[
+    {"name": "Atlanta Hawks", "pct": 30.77},
+    {"name": "Utah Jazz", "pct": 22.22},
+    {"name": "Indiana Pacers", "pct": 21.43},
+    {"name": "Miami Heat", "pct": 20.0},
+    {"name": "Dallas Mavericks", "pct": 18.75}
+  ],
+  "B":[
+    {"name": "Brooklyn Nets", "pct": 7.69},
+    {"name": "Chicago Bulls", "pct": 7.69},
+    {"name": "Boston Celtics", "pct": 7.14},
+    {"name": "Milwaukee Bucks", "pct": 6.67},
+    {"name": "Minnesota Timberwolves", "pct": 4.55},
+    {"name": "Portland Trail Blazers", "pct": 4.55}
+  ],
+  "C":[
+    {"name": "Chicago Bulls", "pct": 15.38},
+    {"name": "Boston Celtics", "pct": 14.29},
+    {"name": "Cleveland Cavaliers", "pct": 10.53},
+    {"name": "Orlando Magic", "pct": 7.69},
+    {"name": "Indiana Pacers", "pct": 7.14}
+  ],
+  "D":[
+    {"name": "Orlando Magic", "pct": 7.69},
+    {"name": "Denver Nuggets", "pct": 7.14},
+    {"name": "Indiana Pacers", "pct": 7.14},
+    {"name": "Detroit Pistons", "pct": 6.67},
+    {"name": "Dallas Mavericks", "pct": 6.25}
+  ],
+  "E":[
+    {"name": "Denver Nuggets", "pct": 21.43},
+    {"name": "Los Angeles Lakers", "pct": 16.67},
+    {"name": "Cleveland Cavaliers", "pct": 15.79},
+    {"name": "Los Angeles Clippers", "pct": 15.0},
+    {"name": "New Orleans Pelicans", "pct": 15.0}
+  ],
+  "F":[
+  ],
+  "G":[
+    {"name": "Denver Nuggets", "pct": 14.29},
+    {"name": "Chicago Bulls", "pct": 7.69},
+    {"name": "Orlando Magic", "pct": 7.69},
+    {"name": "Sacramento Kings", "pct": 6.25},
+    {"name": "Memphis Grizzlies", "pct": 5.88}
+  ],
+  "H":[
+    {"name": "Charlotte Hornets", "pct": 11.76},
+    {"name": "Philadelphia 76ers", "pct": 11.11},
+    {"name": "Utah Jazz", "pct": 11.11},
+    {"name": "Miami Heat", "pct": 10.0},
+    {"name": "Oklahoma City Thunder", "pct": 9.52}
+  ],
+  "I":[
+    {"name": "Miami Heat", "pct": 20.0},
+    {"name": "Memphis Grizzlies", "pct": 17.65},
+    {"name": "Indiana Pacers", "pct": 14.29},
+    {"name": "Detroit Pistons", "pct": 13.33},
+    {"name": "Philadelphia 76ers", "pct": 11.11},
+    {"name": "Washington Wizards", "pct": 11.11}
+  ],
+  "J":[
+    {"name": "Utah Jazz", "pct": 11.11}
+  ],
+  "K":[
+    {"name": "New York Knicks", "pct": 20.0},
+    {"name": "Milwaukee Bucks", "pct": 13.33},
+    {"name": "Atlanta Hawks", "pct": 7.69},
+    {"name": "Brooklyn Nets", "pct": 7.69},
+    {"name": "Houston Rockets", "pct": 6.67}
+  ],
+  "L":[
+    {"name": "Los Angeles Lakers", "pct": 16.67},
+    {"name": "Cleveland Cavaliers", "pct": 15.79},
+    {"name": "Chicago Bulls", "pct": 15.38},
+    {"name": "Los Angeles Clippers", "pct": 15.0},
+    {"name": "Portland Trail Blazers", "pct": 13.64}
+  ],
+  "M":[
+    {"name": "Miami Heat", "pct": 20.0},
+    {"name": "Memphis Grizzlies", "pct": 11.76},
+    {"name": "Minnesota Timberwolves", "pct": 9.09},
+    {"name": "Orlando Magic", "pct": 7.69},
+    {"name": "Milwaukee Bucks", "pct": 6.67}
+  ],
+  "N":[
+    {"name": "San Antonio Spurs", "pct": 17.65},
+    {"name": "Phoenix Suns", "pct": 16.67},
+    {"name": "Brooklyn Nets", "pct": 15.38},
+    {"name": "New Orleans Pelicans", "pct": 15.0},
+    {"name": "Denver Nuggets", "pct": 14.29},
+    {"name": "Indiana Pacers", "pct": 14.29}
+  ],
+  "O":[
+    {"name": "Toronto Raptors", "pct": 26.67},
+    {"name": "Houston Rockets", "pct": 20.0},
+    {"name": "Brooklyn Nets", "pct": 15.38},
+    {"name": "Orlando Magic", "pct": 15.38},
+    {"name": "Boston Celtics", "pct": 14.29}
+  ],
+  "P":[
+    {"name": "Philadelphia 76ers", "pct": 11.11},
+    {"name": "Los Angeles Clippers", "pct": 10.0},
+    {"name": "Phoenix Suns", "pct": 8.33},
+    {"name": "Indiana Pacers", "pct": 7.14},
+    {"name": "Detroit Pistons", "pct": 6.67},
+    {"name": "Toronto Raptors", "pct": 6.67}
+  ],
+  "Q":[
+  ],
+  "R":[
+    {"name": "Toronto Raptors", "pct": 20.0},
+    {"name": "Golden State Warriors", "pct": 14.29},
+    {"name": "Portland Trail Blazers", "pct": 13.64},
+    {"name": "Charlotte Hornets", "pct": 11.76},
+    {"name": "Brooklyn Nets", "pct": 7.69},
+    {"name": "Orlando Magic", "pct": 7.69}
+  ],
+  "S":[
+    {"name": "San Antonio Spurs", "pct": 17.65},
+    {"name": "Los Angeles Lakers", "pct": 16.67},
+    {"name": "Phoenix Suns", "pct": 16.67},
+    {"name": "Los Angeles Clippers", "pct": 15.0},
+    {"name": "Boston Celtics", "pct": 14.29}
+  ],
+  "T":[
+    {"name": "Detroit Pistons", "pct": 20.0},
+    {"name": "Toronto Raptors", "pct": 20.0},
+    {"name": "Charlotte Hornets", "pct": 17.65},
+    {"name": "Atlanta Hawks", "pct": 15.38},
+    {"name": "Boston Celtics", "pct": 14.29}
+  ],
+  "U":[
+    {"name": "Milwaukee Bucks", "pct": 13.33},
+    {"name": "Utah Jazz", "pct": 11.11},
+    {"name": "Phoenix Suns", "pct": 8.33},
+    {"name": "Chicago Bulls", "pct": 7.69},
+    {"name": "Denver Nuggets", "pct": 7.14}
+  ],
+  "V":[
+    {"name": "Cleveland Cavaliers", "pct": 10.53},
+    {"name": "Denver Nuggets", "pct": 7.14},
+    {"name": "Dallas Mavericks", "pct": 6.25},
+    {"name": "Minnesota Timberwolves", "pct": 4.55}
+  ],
+  "W":[
+    {"name": "Washington Wizards", "pct": 11.11},
+    {"name": "Atlanta Hawks", "pct": 7.69},
+    {"name": "Milwaukee Bucks", "pct": 6.67},
+    {"name": "New York Knicks", "pct": 6.67},
+    {"name": "New Orleans Pelicans", "pct": 5.0}
+  ],
+  "X":[
+    {"name": "Phoenix Suns", "pct": 8.33}
+  ],
+  "Y":[
+    {"name": "Brooklyn Nets", "pct": 7.69},
+    {"name": "New York Knicks", "pct": 6.67},
+    {"name": "Oklahoma City Thunder", "pct": 4.76}
+  ],
+  "Z":[
+    {"name": "Utah Jazz", "pct": 22.22},
+    {"name": "Memphis Grizzlies", "pct": 11.76},
+    {"name": "Washington Wizards", "pct": 5.56},
+    {"name": "Portland Trail Blazers", "pct": 4.55}
+  ]
+}

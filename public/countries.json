@@ -1,0 +1,215 @@
+{
+  "A":[
+    {"name": "Canada", "pct": 50.0},
+    {"name": "Panama", "pct": 50.0},
+    {"name": "Albania", "pct": 42.86},
+    {"name": "Bahamas", "pct": 42.86},
+    {"name": "Jamaica", "pct": 42.86}
+  ],
+  "B":[
+    {"name": "Barbados", "pct": 25.0},
+    {"name": "Cuba", "pct": 25.0},
+    {"name": "Zimbabwe", "pct": 25.0},
+    {"name": "Benin", "pct": 20.0},
+    {"name": "Gabon", "pct": 20.0},
+    {"name": "Libya", "pct": 20.0}
+  ],
+  "C":[
+    {"name": "Morocco", "pct": 28.57},
+    {"name": "Chad", "pct": 25.0},
+    {"name": "Cuba", "pct": 25.0},
+    {"name": "Czech Republic", "pct": 21.43},
+    {"name": "Chile", "pct": 20.0},
+    {"name": "China", "pct": 20.0},
+    {"name": "Congo", "pct": 20.0},
+    {"name": "Costa Rica", "pct": 20.0}
+  ],
+  "D":[
+    {"name": "Chad", "pct": 25.0},
+    {"name": "India", "pct": 20.0},
+    {"name": "Sudan", "pct": 20.0},
+    {"name": "Canada", "pct": 16.67},
+    {"name": "Jordan", "pct": 16.67},
+    {"name": "Poland", "pct": 16.67},
+    {"name": "Rwanda", "pct": 16.67},
+    {"name": "Sweden", "pct": 16.67},
+    {"name": "Uganda", "pct": 16.67}
+  ],
+  "E":[
+    {"name": "Greece", "pct": 50.0},
+    {"name": "Yemen", "pct": 40.0},
+    {"name": "Belize", "pct": 33.33},
+    {"name": "Sweden", "pct": 33.33},
+    {"name": "Venezuela", "pct": 33.33}
+  ],
+  "F":[
+    {"name": "Fiji", "pct": 25.0},
+    {"name": "France", "pct": 16.67},
+    {"name": "Finland", "pct": 14.29},
+    {"name": "Afghanistan", "pct": 9.09},
+    {"name": "South Africa", "pct": 8.33}
+  ],
+  "G":[
+    {"name": "Georgia", "pct": 28.57},
+    {"name": "Togo", "pct": 25.0},
+    {"name": "Congo", "pct": 20.0},
+    {"name": "Egypt", "pct": 20.0},
+    {"name": "Gabon", "pct": 20.0},
+    {"name": "Ghana", "pct": 20.0},
+    {"name": "Niger", "pct": 20.0},
+    {"name": "Tonga", "pct": 20.0}
+  ],
+  "H":[
+    {"name": "Chad", "pct": 25.0},
+    {"name": "Chile", "pct": 20.0},
+    {"name": "China", "pct": 20.0},
+    {"name": "Ghana", "pct": 20.0},
+    {"name": "Haiti", "pct": 20.0}
+  ],
+  "I":[
+    {"name": "Fiji", "pct": 50.0},
+    {"name": "Haiti", "pct": 40.0},
+    {"name": "India", "pct": 40.0},
+    {"name": "Kiribati", "pct": 37.5},
+    {"name": "Bolivia", "pct": 28.57},
+    {"name": "Liberia", "pct": 28.57},
+    {"name": "Namibia", "pct": 28.57},
+    {"name": "Nigeria", "pct": 28.57},
+    {"name": "Tunisia", "pct": 28.57}
+  ],
+  "J":[
+    {"name": "Fiji", "pct": 25.0},
+    {"name": "Japan", "pct": 20.0},
+    {"name": "Jordan", "pct": 16.67},
+    {"name": "Jamaica", "pct": 14.29},
+    {"name": "Djibouti", "pct": 12.5}
+  ],
+  "K":[
+    {"name": "Kazakhstan", "pct": 20.0},
+    {"name": "Kenya", "pct": 20.0},
+    {"name": "Kosovo", "pct": 16.67},
+    {"name": "Kuwait", "pct": 16.67},
+    {"name": "Turkey", "pct": 16.67}
+  ],
+  "L":[
+    {"name": "Laos", "pct": 25.0},
+    {"name": "Mali", "pct": 25.0},
+    {"name": "Chile", "pct": 20.0},
+    {"name": "Italy", "pct": 20.0},
+    {"name": "Libya", "pct": 20.0},
+    {"name": "Malta", "pct": 20.0},
+    {"name": "Nepal", "pct": 20.0},
+    {"name": "Palau", "pct": 20.0},
+    {"name": "Seychelles", "pct": 20.0}
+  ],
+  "M":[
+    {"name": "Mali", "pct": 25.0},
+    {"name": "Oman", "pct": 25.0},
+    {"name": "Malta", "pct": 20.0},
+    {"name": "Mozambique", "pct": 20.0},
+    {"name": "Samoa", "pct": 20.0},
+    {"name": "Yemen", "pct": 20.0}
+  ],
+  "N":[
+    {"name": "Benin", "pct": 40.0},
+    {"name": "Finland", "pct": 28.57},
+    {"name": "Lebanon", "pct": 28.57},
+    {"name": "Iran", "pct": 25.0},
+    {"name": "Oman", "pct": 25.0},
+    {"name": "Tanzania", "pct": 25.0}
+  ],
+  "O":[
+    {"name": "Kosovo", "pct": 50.0},
+    {"name": "Togo", "pct": 50.0},
+    {"name": "Comoros", "pct": 42.86},
+    {"name": "Morocco", "pct": 42.86},
+    {"name": "Congo", "pct": 40.0}
+  ],
+  "P":[
+    {"name": "Philippines", "pct": 27.27},
+    {"name": "Peru", "pct": 25.0},
+    {"name": "Egypt", "pct": 20.0},
+    {"name": "Japan", "pct": 20.0},
+    {"name": "Nepal", "pct": 20.0},
+    {"name": "Palau", "pct": 20.0},
+    {"name": "Spain", "pct": 20.0}
+  ],
+  "Q":[
+    {"name": "Iraq", "pct": 25.0},
+    {"name": "Qatar", "pct": 20.0},
+    {"name": "Mozambique", "pct": 10.0},
+    {"name": "Equatorial Guinea", "pct": 5.88}
+  ],
+  "R":[
+    {"name": "Andorra", "pct": 28.57},
+    {"name": "Eritrea", "pct": 28.57},
+    {"name": "Iran", "pct": 25.0},
+    {"name": "Iraq", "pct": 25.0},
+    {"name": "Peru", "pct": 25.0}
+  ],
+  "S":[
+    {"name": "Laos", "pct": 25.0},
+    {"name": "Samoa", "pct": 20.0},
+    {"name": "Seychelles", "pct": 20.0},
+    {"name": "Solomon Islands", "pct": 20.0},
+    {"name": "Spain", "pct": 20.0},
+    {"name": "Sudan", "pct": 20.0},
+    {"name": "Syria", "pct": 20.0}
+  ],
+  "T":[
+    {"name": "Togo", "pct": 25.0},
+    {"name": "United States", "pct": 23.08},
+    {"name": "East Timor", "pct": 20.0},
+    {"name": "Egypt", "pct": 20.0},
+    {"name": "Haiti", "pct": 20.0},
+    {"name": "Italy", "pct": 20.0},
+    {"name": "Malta", "pct": 20.0},
+    {"name": "Qatar", "pct": 20.0},
+    {"name": "Tajikistan", "pct": 20.0},
+    {"name": "Tonga", "pct": 20.0}
+  ],
+  "U":[
+    {"name": "Uruguay", "pct": 42.86},
+    {"name": "Nauru", "pct": 40.0},
+    {"name": "Tuvalu", "pct": 33.33},
+    {"name": "Burundi", "pct": 28.57},
+    {"name": "Vanuatu", "pct": 28.57}
+  ],
+  "V":[
+    {"name": "Kosovo", "pct": 16.67},
+    {"name": "Latvia", "pct": 16.67},
+    {"name": "Tuvalu", "pct": 16.67},
+    {"name": "Bolivia", "pct": 14.29},
+    {"name": "Moldova", "pct": 14.29},
+    {"name": "Vanuatu", "pct": 14.29},
+    {"name": "Vietnam", "pct": 14.29}
+  ],
+  "W":[
+    {"name": "Kuwait", "pct": 16.67},
+    {"name": "Malawi", "pct": 16.67},
+    {"name": "Norway", "pct": 16.67},
+    {"name": "Rwanda", "pct": 16.67},
+    {"name": "Sweden", "pct": 16.67},
+    {"name": "Taiwan", "pct": 16.67}
+  ],
+  "X":[
+    {"name": "Mexico", "pct": 16.67},
+    {"name": "Luxembourg", "pct": 10.0}
+  ],
+  "Y":[
+    {"name": "Egypt", "pct": 20.0},
+    {"name": "Italy", "pct": 20.0},
+    {"name": "Kenya", "pct": 20.0},
+    {"name": "Kyrgyzstan", "pct": 20.0},
+    {"name": "Libya", "pct": 20.0},
+    {"name": "Syria", "pct": 20.0},
+    {"name": "Yemen", "pct": 20.0}
+  ],
+  "Z":[
+    {"name": "Belize", "pct": 16.67},
+    {"name": "Brazil", "pct": 16.67},
+    {"name": "Zambia", "pct": 16.67},
+    {"name": "Tanzania", "pct": 12.5},
+    {"name": "Zimbabwe", "pct": 12.5}
+  ]
+}

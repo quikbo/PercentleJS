@@ -1,0 +1,174 @@
+{
+  "A":[
+    {"name": "Atlanta Falcons", "pct": 26.67},
+    {"name": "Arizona Cardinals", "pct": 23.53},
+    {"name": "Tampa Bay Buccaneers", "pct": 20.0},
+    {"name": "Seattle Seahawks", "pct": 18.75},
+    {"name": "Carolina Panthers", "pct": 17.65},
+    {"name": "Las Vegas Raiders", "pct": 17.65}
+  ],
+  "B":[
+    {"name": "Buffalo Bills", "pct": 15.38},
+    {"name": "Tampa Bay Buccaneers", "pct": 10.0},
+    {"name": "Chicago Bears", "pct": 7.69},
+    {"name": "Dallas Cowboys", "pct": 7.14},
+    {"name": "Denver Broncos", "pct": 7.14}
+  ],
+  "C":[
+    {"name": "Chicago Bears", "pct": 15.38},
+    {"name": "Cincinnati Bengals", "pct": 11.11},
+    {"name": "Kansas City Chiefs", "pct": 11.11},
+    {"name": "San Francisco 49ers", "pct": 10.53},
+    {"name": "Tampa Bay Buccaneers", "pct": 10.0}
+  ],
+  "D":[
+    {"name": "Detroit Lions", "pct": 7.69},
+    {"name": "Dallas Cowboys", "pct": 7.14},
+    {"name": "Denver Broncos", "pct": 7.14},
+    {"name": "Miami Dolphins", "pct": 7.14},
+    {"name": "Cleveland Browns", "pct": 6.25}
+  ],
+  "E":[
+    {"name": "Tennessee Titans", "pct": 25.0},
+    {"name": "Seattle Seahawks", "pct": 18.75},
+    {"name": "Green Bay Packers", "pct": 17.65},
+    {"name": "Philadelphia Eagles", "pct": 15.79},
+    {"name": "Pittsburgh Steelers", "pct": 15.79}
+  ],
+  "F":[
+    {"name": "Buffalo Bills", "pct": 15.38},
+    {"name": "Atlanta Falcons", "pct": 6.67},
+    {"name": "Kansas City Chiefs", "pct": 5.56},
+    {"name": "San Francisco 49ers", "pct": 5.26}
+  ],
+  "G":[
+    {"name": "Los Angeles Chargers", "pct": 10.0},
+    {"name": "Chicago Bears", "pct": 7.69},
+    {"name": "New York Giants", "pct": 6.67},
+    {"name": "Los Angeles Rams", "pct": 6.25},
+    {"name": "Green Bay Packers", "pct": 5.88},
+    {"name": "Las Vegas Raiders", "pct": 5.88},
+    {"name": "Minnesota Vikings", "pct": 5.88}
+  ],
+  "H":[
+    {"name": "Philadelphia Eagles", "pct": 10.53},
+    {"name": "Chicago Bears", "pct": 7.69},
+    {"name": "Houston Texans", "pct": 7.14},
+    {"name": "Miami Dolphins", "pct": 7.14},
+    {"name": "Seattle Seahawks", "pct": 6.25}
+  ],
+  "I":[
+    {"name": "Miami Dolphins", "pct": 21.43},
+    {"name": "Minnesota Vikings", "pct": 17.65},
+    {"name": "Cincinnati Bengals", "pct": 16.67},
+    {"name": "Indianapolis Colts", "pct": 16.67},
+    {"name": "Detroit Lions", "pct": 15.38}
+  ],
+  "J":[
+    {"name": "Jacksonville Jaguars", "pct": 10.0},
+    {"name": "New York Jets", "pct": 7.69}
+  ],
+  "K":[
+    {"name": "New York Jets", "pct": 7.69},
+    {"name": "New York Giants", "pct": 6.67},
+    {"name": "Seattle Seahawks", "pct": 6.25},
+    {"name": "Green Bay Packers", "pct": 5.88},
+    {"name": "Minnesota Vikings", "pct": 5.88}
+  ],
+  "L":[
+    {"name": "Buffalo Bills", "pct": 23.08},
+    {"name": "Philadelphia Eagles", "pct": 15.79},
+    {"name": "Dallas Cowboys", "pct": 14.29},
+    {"name": "Atlanta Falcons", "pct": 13.33},
+    {"name": "Cleveland Browns", "pct": 12.5},
+    {"name": "Los Angeles Rams", "pct": 12.5}
+  ],
+  "M":[
+    {"name": "Miami Dolphins", "pct": 14.29},
+    {"name": "Washington Commanders", "pct": 9.52},
+    {"name": "Baltimore Ravens", "pct": 6.25},
+    {"name": "Los Angeles Rams", "pct": 6.25},
+    {"name": "Minnesota Vikings", "pct": 5.88}
+  ],
+  "N":[
+    {"name": "Cincinnati Bengals", "pct": 22.22},
+    {"name": "Tennessee Titans", "pct": 18.75},
+    {"name": "Minnesota Vikings", "pct": 17.65},
+    {"name": "New Orleans Saints", "pct": 16.67},
+    {"name": "New England Patriots", "pct": 15.0}
+  ],
+  "O":[
+    {"name": "Detroit Lions", "pct": 15.38},
+    {"name": "Dallas Cowboys", "pct": 14.29},
+    {"name": "Denver Broncos", "pct": 14.29},
+    {"name": "Houston Texans", "pct": 14.29},
+    {"name": "Indianapolis Colts", "pct": 11.11}
+  ],
+  "P":[
+    {"name": "Philadelphia Eagles", "pct": 10.53},
+    {"name": "Miami Dolphins", "pct": 7.14},
+    {"name": "Carolina Panthers", "pct": 5.88},
+    {"name": "Green Bay Packers", "pct": 5.88},
+    {"name": "Indianapolis Colts", "pct": 5.56}
+  ],
+  "Q":[
+  ],
+  "R":[
+    {"name": "Denver Broncos", "pct": 14.29},
+    {"name": "Baltimore Ravens", "pct": 12.5},
+    {"name": "Arizona Cardinals", "pct": 11.76},
+    {"name": "Carolina Panthers", "pct": 11.76},
+    {"name": "Green Bay Packers", "pct": 11.76},
+    {"name": "Las Vegas Raiders", "pct": 11.76}
+  ],
+  "S":[
+    {"name": "Los Angeles Rams", "pct": 18.75},
+    {"name": "Seattle Seahawks", "pct": 18.75},
+    {"name": "Tennessee Titans", "pct": 18.75},
+    {"name": "Las Vegas Raiders", "pct": 17.65},
+    {"name": "Kansas City Chiefs", "pct": 16.67},
+    {"name": "New Orleans Saints", "pct": 16.67}
+  ],
+  "T":[
+    {"name": "Tennessee Titans", "pct": 18.75},
+    {"name": "Pittsburgh Steelers", "pct": 15.79},
+    {"name": "Detroit Lions", "pct": 15.38},
+    {"name": "Houston Texans", "pct": 14.29},
+    {"name": "Atlanta Falcons", "pct": 13.33}
+  ],
+  "U":[
+    {"name": "Buffalo Bills", "pct": 7.69},
+    {"name": "Houston Texans", "pct": 7.14},
+    {"name": "Pittsburgh Steelers", "pct": 5.26},
+    {"name": "Jacksonville Jaguars", "pct": 5.0},
+    {"name": "Tampa Bay Buccaneers", "pct": 5.0}
+  ],
+  "V":[
+    {"name": "Denver Broncos", "pct": 7.14},
+    {"name": "Baltimore Ravens", "pct": 6.25},
+    {"name": "Cleveland Browns", "pct": 6.25},
+    {"name": "Las Vegas Raiders", "pct": 5.88},
+    {"name": "Minnesota Vikings", "pct": 5.88}
+  ],
+  "W":[
+    {"name": "New York Jets", "pct": 7.69},
+    {"name": "Dallas Cowboys", "pct": 7.14},
+    {"name": "New York Giants", "pct": 6.67},
+    {"name": "Cleveland Browns", "pct": 6.25},
+    {"name": "Seattle Seahawks", "pct": 6.25}
+  ],
+  "X":[
+    {"name": "Houston Texans", "pct": 7.14}
+  ],
+  "Y":[
+    {"name": "New York Jets", "pct": 7.69},
+    {"name": "Dallas Cowboys", "pct": 7.14},
+    {"name": "New York Giants", "pct": 6.67},
+    {"name": "Green Bay Packers", "pct": 5.88},
+    {"name": "Kansas City Chiefs", "pct": 5.56}
+  ],
+  "Z":[
+    {"name": "Arizona Cardinals", "pct": 5.88}
+  ]
+  }
+  

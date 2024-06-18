@@ -9,7 +9,8 @@ const letterRandomizer = () => {
 
 const getAnswersForCategory = async (letter, category) => {
     try {
-        const response = await fetch(`./data/${category}.json`);
+        const response = await fetch(`../${category}.json`);
+        console.log(response)
         const data = await response.json();
         return data[letter] || [];
     } catch (err) {
@@ -73,7 +74,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     const category = page.split('.')[0];
     if (category === "countries" || category === "NFL" || category === "NBA") {
         percentleGame = await createGame(category);
-        console.log(percentleGame);
         renderUI();
     }
 });
