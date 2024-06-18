@@ -9,7 +9,7 @@ const letterRandomizer = () => {
 
 const getAnswersForCategory = async (letter, category) => {
     try {
-        const response = await fetch(`data/${category}.json`);
+        const response = await fetch(`../${category}.json`);
         const data = await response.json();
         return data[letter] || [];
     } catch (err) {
