@@ -1,4 +1,5 @@
 import { defineConfig } from "vite";
+import { resolve } from 'path'
 
 export default defineConfig({
   base: "/PercentleJS/",
@@ -6,9 +7,9 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        src: resolve(__dirname, 'src/countries.html'),
-        src: resolve(__dirname, 'src/NFL.html'),
-        src: resolve(__dirname, 'src/NBA.html'),
+        countries: resolve(__dirname, 'src/countries.html'),
+        NFL: resolve(__dirname, 'src/NFL.html'),
+        NBA: resolve(__dirname, 'src/NBA.html'),
       },
     },
   },

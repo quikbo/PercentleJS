@@ -9,7 +9,7 @@ const letterRandomizer = () => {
 
 const getAnswersForCategory = async (letter, category) => {
     try {
-        const response = await fetch(`../data/${category}.json`);
+        const response = await fetch(`data/${category}.json`);
         const data = await response.json();
         return data[letter] || [];
     } catch (err) {
@@ -85,27 +85,27 @@ document.addEventListener("DOMContentLoaded", async () => {
 const countriesButton = document.getElementById('countriesButton')
 if (countriesButton) {
     countriesButton.onclick = () => {
-    window.location.href = "src/countries.html";
+    window.location.href = "/PercentleJS/src/countries.html";
     };
 }
 
 const nflButton = document.getElementById('nflButton')
 if (nflButton) {
     nflButton.onclick = () => {
-    window.location.href = 'src/NFL.html';
+    window.location.href = '/PercentleJS/src/NFL.html';
     };
 }
 
 const nbaButton = document.getElementById('nbaButton')
 if (nbaButton) {
     nbaButton.onclick = () => {
-    window.location.href = 'src/NBA.html';
+    window.location.href = '/PercentleJS/src/NBA.html';
     };
 }
 
 const logoButton = document.getElementById('logo-button')
 if (logoButton) {
     logoButton.onclick = () => {
-    window.location.href = 'index.html';
+    window.location.href = '/PercentleJS/index.html';
     };
 }
