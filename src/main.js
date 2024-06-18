@@ -85,27 +85,27 @@ document.addEventListener("DOMContentLoaded", async () => {
 const countriesButton = document.getElementById('countriesButton')
 if (countriesButton) {
     countriesButton.onclick = () => {
-    window.location.href = "PercentleJS/src/games/countries.html";
+    window.location.href = "https://quikbo.github.io/PercentleJS/src/games/countries.html";
     };
 }
 
 const nflButton = document.getElementById('nflButton')
 if (nflButton) {
     nflButton.onclick = () => {
-    window.location.href = 'PercentleJS/src/games/NFL.html';
+    window.location.href = 'https://quikbo.github.io/PercentleJS/src/games/NFL.html';
     };
 }
 
 const nbaButton = document.getElementById('nbaButton')
 if (nbaButton) {
     nbaButton.onclick = () => {
-    window.location.href = 'PercentleJS/src/games/NBA.html';
+    window.location.href = 'https://quikbo.github.io/PercentleJS/src/games/NBA.html';
     };
 }
 
 const logoButton = document.getElementById('logo-button')
 if (logoButton) {
     logoButton.onclick = () => {
-    window.location.href = 'PercentleJS/index.html';
+    window.location.href = 'https://quikbo.github.io/PercentleJS';
     };
 }
